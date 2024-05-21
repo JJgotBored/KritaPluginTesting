@@ -1,7 +1,7 @@
-# figure out how to configure vs code to recognise krita import
+# figure out how to configure VScode to recognise krita import
+#   likely have to install krita library despite code working in krita
 from krita import *
 from PyQt5.QtWidgets import *
-
 
 #def showwin():
 #    QMessageBox.information(QWidget(), "WindowTest", "It works")
